@@ -1,0 +1,27 @@
+name: Bug report
+description: Report an app, metadata or session problem.
+body:
+  - type: input
+    id: version
+    attributes:
+      label: App and Windows versions
+      placeholder: Quest Completer 4.6.1; Windows 11 x64
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game and mode
+      placeholder: Title; Standard or RPC
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and observed result
+      description: Include expected behavior. Distinguish local timers, RPC acknowledgement and Discord Quest progress.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Relevant diagnostics
+      description: Remove account information and private paths. Do not attach tokens or user-data backups.

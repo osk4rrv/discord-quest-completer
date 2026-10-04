@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "retrievedAt": "2026-10-04",
+  "games": [
+    {
+      "name": "Arc Raiders",
+      "executables": [
+        "Arc Raiders/PioneerGame.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Arena Breakout Infinite",
+      "executables": [
+        "Arena Breakout Infinite/ABInfinite/Binaries/Win64/UAGame.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Arknights Endfield",
+      "executables": [
+        "Arknights Endfield/EndField Game/Endfield.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Battlefield 6",
+      "executables": [
+        "Battlefield 6/bf6.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Blue Protocol Star Resonance",
+      "executables": [
+        "Blue Protocol Star Resonance/bpsr/BPSR_STEAM.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Comet",
+      "executables": [
+        "Comet/Perplexity/Comet/Application/comet.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json",
+      "aliases": [
+        "Comet Browser",
+        "Perplexity Comet"
+      ]
+    },
+    {
+      "name": "Delta Force",
+      "executables": [
+        "Delta Force/Game/DeltaForce/Binaries/Win64/DeltaForceClient-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Destiny 2",
+      "executables": [
+        "Destiny 2/destiny2.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Duet Night Abyss",
+      "executables": [
+        "Duet Night Abyss/EM-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "EA Sports FC 26",
+      "executables": [
+        "EA SPORTS FC 26/FC26.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "EMPULSE",
+      "executables": [
+        "EMPULSE Demo/Orion/Binaries/Win64/OrionClient-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Enginefall",
+      "executables": [
+        "Enginefall Demo/Coltrane/Binaries/Win64/ColtraneClient-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Escape the Backrooms",
+      "executables": [
+        "Win64/Backrooms-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "EVE Online",
+      "executables": [
+        "Eve Online/exefile.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Fallout 4",
+      "executables": [
+        "Fallout 4/Fallout4.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Fallout 76",
+      "executables": [
+        "Fallout76/Fallout76.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Fortnite",
+      "executables": [
+        "Fortnite/FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Genshin Impact",
+      "executables": [
+        "Genshin Impact/Genshin Impact game/GenshinImpact.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "GearUP",
+      "executables": [
+        "Gearup_ball.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "GODDESS OF VICTORY: NIKKE",
+      "executables": [
+        "NIKKE/NIKKE/Game/nikke.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Grounded 2",
+      "executables": [
+        "Grounded 2/WinGRTS/Grounded2-WinGRTS-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Highguard",
+      "executables": [
+        "Highguard/Win64/HighguardClient-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "executables": [
+        "Star Rail/Games/StarRail.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Hunt: Showdown 1896",
+      "executables": [
+        "Hunt Showdown/bin/win_x64/HuntGame.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "League of Legends",
+      "executables": [
+        "Game/League of Legends.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "NTE: Neverness to Everness",
+      "executables": [
+        "Neverness To Everness/Client/WindowsNoEditor/HT/Binaries/Win64/HTGame.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Old School RuneScape",
+      "executables": [
+        "win64/osclient.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Once Human",
+      "executables": [
+        "Once Human/ONCE_HUMAN.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Opera GX",
+      "executables": [
+        "Opera GX/opera.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json",
+      "aliases": [
+        "Opera",
+        "Opera Browser"
+      ]
+    },
+    {
+      "name": "Path of Exile 2",
+      "executables": [
+        "Grinding Gear Games/Path of Exile 2/pathofexile.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "PUBG: BATTLEGROUNDS",
+      "executables": [
+        "PUBG/TslGame/Binaries/Win64/TslGame.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Pragmata",
+      "executables": [
+        "PRAGMATA SKETCHBOOK/PRAGMATA_SKETCHBOOK.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "RAID: Shadow Legends",
+      "executables": [
+        "RAID Shadow Legends/Raid.exe",
+        "build/Raid.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Risk of Rain 2",
+      "executables": [
+        "Risk of Rain 2/Risk of Rain 2.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Rune Dice",
+      "executables": [
+        "Rune Dice/Rune Dice.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "RuneScape",
+      "executables": [
+        "win64/runescape.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Shift at Midnight",
+      "executables": [
+        "Shift At Midnight Demo/ShiftAtMidnight.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json",
+      "requiresSteam": true,
+      "reason": "Install the Steam demo, then use Replace installed copy. Confirmed working. A sandbox does not register for this one, and pausing the download early is not enough."
+    },
+    {
+      "name": "skate.",
+      "executables": [
+        "skate/skate.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "STALZONE",
+      "executables": [
+        "bin/stalcraftw.exe",
+        "bin/stalzonew.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Storm Lancers",
+      "executables": [
+        "Storm Lancers Demo/StormLancersDemo.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json",
+      "requiresSteam": true,
+      "reason": "The community index reports this one needs the Steam demo installed. If a sandbox does not register, install the demo and use Replace installed copy."
+    },
+    {
+      "name": "Summoners War: Sky Arena",
+      "executables": [
+        "Summoners War/common/Summoners War/SummonersWar.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json",
+      "aliases": [
+        "Summoners War"
+      ]
+    },
+    {
+      "name": "Terminull Brigade",
+      "executables": [
+        "TerminullBrigade/Project Rogueteers/Rogueteers/Binaries/Win64/Rouge-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "The Elder Scrolls Online",
+      "executables": [
+        "Zenimax Online/The Elder Scrolls Online/game/client/eso64.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "The Mound: Omen of Cthulhu",
+      "executables": [
+        "The Mound Omen of Cthulhu/Binaries/Win64/TheMound-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Torchlight: Infinite",
+      "executables": [
+        "Torchlight_Infinite/UE_game/Binaries/Win64/Torchlight_Infinite.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "VALORANT",
+      "executables": [
+        "Riot Games/VALORANT/live/ShooterGame/Binaries/Win64/VALORANT-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Vindictus",
+      "executables": [
+        "Vindictus/Vindictus_x64.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Where Winds Meet",
+      "executables": [
+        "wwm_standard/Engine/Binaries/Win64r/wwm.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "World of Tanks: HEAT",
+      "executables": [
+        "WoT HEAT/wgcs_api.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "World of Warcraft",
+      "executables": [
+        "World of Warcraft/_retail_/Wow.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Wuthering Waves",
+      "executables": [
+        "Wuthering Waves/Wuthering Waves Game/Client/Binaries/Win64/Wuthering Waves.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Yu-Gi-Oh! Master Duel",
+      "executables": [
+        "Yu-Gi-Oh!  Master Duel/masterduel.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "executables": [
+        "ZenlessZoneZero Game/ZenlessZoneZero.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "2XKO",
+      "executables": [
+        "2XKO/Live/Lion/Binaries/Win64/Lion-Win64-Shipping.exe"
+      ],
+      "source": "Community Quest paths (bundled snapshot, 2026-10-04)",
+      "sourceUrl": "https://github.com/Sinnisterly/DiscordQuestCompleter/blob/main/dqc/data/overrides.json"
+    },
+    {
+      "name": "EA SPORTS FC 27",
+      "aliases": [
+        "FC27",
+        "FC 27",
+        "EA FC 27"
+      ],
+      "discordId": "1531874756096295054",
+      "steamId": "4080220",
+      "steamInstallDirectory": "EA SPORTS FC 27",
+      "executables": [
+        "fc27.exe"
+      ],
+      "source": "FC 27 Steam detection profile (community, 2026-10-04)",
+      "sourceUrl": "https://www.reddit.com/r/DiscordQuests/comments/1wq2m86/ea_sports_fc_27_quest/"
+    }
+  ]
+}
